@@ -1,5 +1,3 @@
-using System;
-
 namespace CursoMVC.Models
 {
     public class ErrorViewModel

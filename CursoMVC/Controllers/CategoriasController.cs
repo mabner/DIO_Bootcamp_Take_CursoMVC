@@ -1,11 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using CursoMVC.Models;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using System.Linq;
 using System.Threading.Tasks;
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.Rendering;
-using Microsoft.EntityFrameworkCore;
-using CursoMVC.Models;
 
 namespace CursoMVC.Controllers
 {
